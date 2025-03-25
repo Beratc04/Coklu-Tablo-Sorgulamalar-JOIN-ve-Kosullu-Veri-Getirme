@@ -1,0 +1,1 @@
+# Coklu-Tablo-Sorgulamalar-JOIN-ve-Kosullu-Veri-Getirme
