@@ -1,6 +1,6 @@
 # Coklu-Tablo-Sorgulamalar-JOIN-ve-Kosullu-Veri-Getirme
 
-SQL Bootcamp - Hafta 3: Çoklu Tablo Sorgulamaları ve JOIN İşlemleri
+SQL Hafta 3
 
 Bu repo, SQL Bootcamp'in 3. haftasında Chinook veritabanı üzerinde çoklu tablo sorgulamalarını içeren bir PostgreSQL çalışma dosyasıdır. Ödev, temel JOIN işlemlerini ve veri filtreleme tekniklerini kapsamaktadır.
 
